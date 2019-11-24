@@ -1,0 +1,9 @@
+<?xml version="1.0" ?>
+<testsuite name="calculadoraTest-20191123225512" tests="4" time="0.000" failures="0" errors="0">
+	<testcase classname="calculadoraTest" name="test_dividir" time="0.000"/>
+	<testcase classname="calculadoraTest" name="test_multiplicar" time="0.000"/>
+	<testcase classname="calculadoraTest" name="test_resta" time="0.000"/>
+	<testcase classname="calculadoraTest" name="test_suma" time="0.000"/>
+	<system-out><![CDATA[]]></system-out>
+	<system-err><![CDATA[]]></system-err>
+</testsuite>

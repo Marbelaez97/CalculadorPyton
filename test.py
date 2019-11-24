@@ -1,4 +1,5 @@
 import unittest
+import xmlrunner
 from Operaciones import Operaciones
 
 
@@ -19,4 +20,4 @@ class calculadoraTest(unittest.TestCase):
 
 
 if __name__ == '__main__':
-    unittest.main()
+    unittest.main(testRunner=xmlrunner.XMLTestRunner(output="resultado"))
