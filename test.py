@@ -6,7 +6,7 @@ from Operaciones import Operaciones
 class calculadoraTest(unittest.TestCase):
 
     def test_suma(self):
-        self.assertEqual(Operaciones.suma(1,2),3)
+        self.assertEqual(Operaciones.suma(1,2),5)
 
     def test_resta(self):
         self.assertEqual(Operaciones.resta(2,1),1)
